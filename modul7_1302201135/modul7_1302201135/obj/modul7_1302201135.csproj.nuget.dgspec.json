@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS_A409U\\source\\repos\\modul7KPL_1302201135\\modul7_1302201135\\modul7_1302201135\\modul7_1302201135.csproj": {}
+    "C:\\Users\\ASUS_A409U\\source\\repos\\New folder\\modul7KPL_1302201135\\modul7_1302201135\\modul7_1302201135\\modul7_1302201135.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS_A409U\\source\\repos\\modul7KPL_1302201135\\modul7_1302201135\\modul7_1302201135\\modul7_1302201135.csproj": {
+    "C:\\Users\\ASUS_A409U\\source\\repos\\New folder\\modul7KPL_1302201135\\modul7_1302201135\\modul7_1302201135\\modul7_1302201135.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS_A409U\\source\\repos\\modul7KPL_1302201135\\modul7_1302201135\\modul7_1302201135\\modul7_1302201135.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS_A409U\\source\\repos\\New folder\\modul7KPL_1302201135\\modul7_1302201135\\modul7_1302201135\\modul7_1302201135.csproj",
         "projectName": "modul7_1302201135",
-        "projectPath": "C:\\Users\\ASUS_A409U\\source\\repos\\modul7KPL_1302201135\\modul7_1302201135\\modul7_1302201135\\modul7_1302201135.csproj",
+        "projectPath": "C:\\Users\\ASUS_A409U\\source\\repos\\New folder\\modul7KPL_1302201135\\modul7_1302201135\\modul7_1302201135\\modul7_1302201135.csproj",
         "packagesPath": "C:\\Users\\ASUS_A409U\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS_A409U\\source\\repos\\modul7KPL_1302201135\\modul7_1302201135\\modul7_1302201135\\obj\\",
+        "outputPath": "C:\\Users\\ASUS_A409U\\source\\repos\\New folder\\modul7KPL_1302201135\\modul7_1302201135\\modul7_1302201135\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS_A409U\\AppData\\Roaming\\NuGet\\NuGet.Config",

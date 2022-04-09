@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
-using System.IO;
-using System.Net.Http.Json;
+
 
 
 namespace modul7_1302201135
@@ -16,8 +15,14 @@ namespace modul7_1302201135
         public int threshold { get; set;}
         public int low_fee { get; set; }
         public int high_fee { get; set; }
-        public List<string> methods { get; set; };
+        public List<string> methods { get; set; }
         public string confirmation{get; set;}
+
+		public BankTransferConfig()
+		{
+			methods = new List<string>();
+			readJson();
+		}
 
 		public void readJson()
 		{
@@ -33,7 +38,7 @@ namespace modul7_1302201135
 			{
 				methods.Add(item.GetString());
 			}
-			confirmation = fileJson.GetProperty("confirmation").GetProperty(lang).GetString();			
+			confirmation = fileJson.GetProperty("confirmation").GetProperty("lang").GetString();			
 		}
 
 		public void transferBank()
