@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0M2PRYanQLvzDCHC4FNH5D35QD0YwqtBzOYiQZ+SOjs02QGjUpeBk1yfbbFyMVIAhc8w6V/qWPWErfPg8M/ecw==",
+  "dgSpecHash": "HresdEsOl6kWyUCaZt42yGJIZhMMfg0+xOgwJP8+qYW8Ty2RnJu8wveiDGg0w423ag6JC5zFDCfK/PdOeukQDQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ASUS_A409U\\source\\repos\\modul7KPL_1302201135\\modul7_1302201135\\modul7_1302201135\\modul7_1302201135.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS_A409U\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

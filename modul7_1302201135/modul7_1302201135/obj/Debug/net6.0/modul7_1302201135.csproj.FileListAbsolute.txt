@@ -1,0 +1,5 @@
+C:\Users\ASUS_A409U\source\repos\modul7KPL_1302201135\modul7_1302201135\modul7_1302201135\obj\Debug\net6.0\modul7_1302201135.csproj.AssemblyReference.cache
+C:\Users\ASUS_A409U\source\repos\modul7KPL_1302201135\modul7_1302201135\modul7_1302201135\obj\Debug\net6.0\modul7_1302201135.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS_A409U\source\repos\modul7KPL_1302201135\modul7_1302201135\modul7_1302201135\obj\Debug\net6.0\modul7_1302201135.AssemblyInfoInputs.cache
+C:\Users\ASUS_A409U\source\repos\modul7KPL_1302201135\modul7_1302201135\modul7_1302201135\obj\Debug\net6.0\modul7_1302201135.AssemblyInfo.cs
+C:\Users\ASUS_A409U\source\repos\modul7KPL_1302201135\modul7_1302201135\modul7_1302201135\obj\Debug\net6.0\modul7_1302201135.csproj.CoreCompileInputs.cache
